@@ -1,6 +1,6 @@
 # Code Refactor
 
-Code refactor is a repository where we have optimized Horiseon Social Solution Services' homepage for modern SEO, and to better follow accessibility standards. Improvements include refactoring of HTML for a more semeantic presentation, eliminating redundancies in the HTML and CSS, and general house keeping of the syntax. 
+Code refactor is a repository where we have optimized Horiseon Social Solution Services' homepage for modern SEO, and to better follow accessibility standards. Improvements include refactoring of HTML for a more semantic presentation, eliminating redundancies in the HTML and CSS, and general house keeping of the syntax. 
 
 ## Preview 
 ![Horiseon website](/assets/images/screenshot.png)
